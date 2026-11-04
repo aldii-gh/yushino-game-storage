@@ -99,6 +99,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "harvest-moon-gbc-usa-sgb-enhanced-gb-com",
+      "title": "Harvest Moon GBC",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "harvest-moon-gbc-usa-sgb-enhanced-gb-com.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
