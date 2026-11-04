@@ -88,6 +88,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-03"
+    },
+    {
+      "id": "magical-tetris-challenge-europe-en-fr-de",
+      "title": "Magical Tetris Challenge",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "magical-tetris-challenge-europe-en-fr-de.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
