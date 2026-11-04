@@ -143,6 +143,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "fifa-2000-usa-europe-sgb-enhanced-gb-com",
+      "title": "FIFA 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "fifa-2000-usa-europe-sgb-enhanced-gb-com.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
