@@ -154,6 +154,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "battletanx-europe-en-fr-de",
+      "title": "BattleTank",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "battletanx-europe-en-fr-de.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
