@@ -110,6 +110,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "harvest-moon-2-gbc-europe-sgb-enhanced-g",
+      "title": "Harvest Moon 2",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "harvest-moon-2-gbc-europe-sgb-enhanced-g.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
