@@ -88,6 +88,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "super-mario-bros-deluxe-europe-rev-2",
+      "title": "Super Mario Bros Deluxe",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "super-mario-bros-deluxe-europe-rev-2.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
