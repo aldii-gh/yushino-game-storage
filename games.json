@@ -121,6 +121,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "street-fighter-alpha-warriors-dreams-eur",
+      "title": "Street Fighter Alpha",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "street-fighter-alpha-warriors-dreams-eur.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
