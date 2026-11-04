@@ -2,6 +2,12 @@
   "version": 1,
   "entries": [
     {
+      "t": "2026-11-04T01:59:35.858Z",
+      "action": "upload",
+      "id": "resident-evil-gaiden-europe-en-fr-de-es-",
+      "by": "aldii-gh"
+    },
+    {
       "t": "2026-11-04T01:57:07.487Z",
       "action": "delete",
       "id": "super-mario-bros-deluxe-europe-rev-2",
