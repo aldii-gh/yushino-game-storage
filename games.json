@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "streetfighter",
+      "title": "Street Fighter",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "streetfighter.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "supermario",
+      "title": "Super Mario",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "supermario.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "metroid2",
+      "title": "Metroid II",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "metroid2.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "saga",
+      "title": "SaGa II",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "saga.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "zelda",
+      "title": "The Legend of Zelda",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "zelda.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "marioland",
+      "title": "Super Mario Land",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "marioland.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "pokemon",
+      "title": "Pokemon Yellow",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "pokemon.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "mortalkombat",
+      "title": "Mortal Kombat",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "mortalkombat.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "littlemaster2",
+      "title": "Little Master 2",
+      "system": "Game Boy",
+      "format": "gb",
+      "file": "littlemaster2.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-03"
+    }
+  ]
+}
