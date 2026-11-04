@@ -2,6 +2,12 @@
   "version": 1,
   "entries": [
     {
+      "t": "2026-11-04T01:57:07.487Z",
+      "action": "delete",
+      "id": "super-mario-bros-deluxe-europe-rev-2",
+      "by": "aldii-gh"
+    },
+    {
       "t": "2026-11-04T01:56:19.166Z",
       "action": "upload",
       "id": "super-mario-bros-deluxe-europe-rev-2",
