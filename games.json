@@ -77,6 +77,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "the-legend-of-zelda-new-awakening-hack",
+      "title": "The Legend of Zelda - awakening",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "the-legend-of-zelda-new-awakening-hack.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
