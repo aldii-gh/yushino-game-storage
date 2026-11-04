@@ -132,6 +132,17 @@
       "description": "",
       "available": true,
       "added": "2026-11-04"
+    },
+    {
+      "id": "bomberman-quest-europe-en-fr-de-sgb-enha",
+      "title": "Bomberman Quest",
+      "system": "Game Boy Color",
+      "format": "gbc",
+      "file": "bomberman-quest-europe-en-fr-de-sgb-enha.json",
+      "cover": "",
+      "description": "",
+      "available": true,
+      "added": "2026-11-04"
     }
   ]
 }
